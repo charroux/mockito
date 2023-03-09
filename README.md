@@ -4,7 +4,7 @@ Mockito is a mocking framework that tastes really good. It lets you write beauti
 
 https://site.mockito.org/
 
-# La classe à tester
+# Exemple d'une classe à tester
 
 https://github.com/charroux/mockito/blob/main/src/main/java/com/example/mockito/Voiture.java
 
